@@ -1,0 +1,9 @@
+tensorflow>=2.12
+kagglehub
+matplotlib
+numpy
+pillow
+scikit-learn
+ipython
+jupyter
+ipywidgets  # para el botón de carga en el notebook de inferencia
